@@ -2,7 +2,7 @@
 
 public class Chess
 {
-	// rook doesn't work properly lol
+	// rook doesn't work properly 
    // so does bishop and queen diagonal... eats own team 
    // fix array out of bounds for misclick of piece (white turn, picks black)
 	// promotion doesn't work
