@@ -1,0 +1,13 @@
+img/pawn-blk.png
+img/rook-blk.png
+img/knight-blk.png
+img/bishop-blk.png
+img/queen-blk.png
+img/king-blk.png
+img/pawn-wht.png
+img/rook-wht.png
+img/knight-wht.png
+img/bishop-wht.png
+img/queen-wht.png
+img/king-wht.png
+img/blank.png
