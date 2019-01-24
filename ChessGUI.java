@@ -5,7 +5,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.io.*;
 
-// GUI class intended to handle how the 
+// GUI class intended to handle how the graphics work
 public class ChessGUI{
 
    private JLabel[][] squares;
