@@ -64,19 +64,10 @@ public class ChessGUI{
          
          pieceIcons = new String[NUMPLAYER*NUMTYPE];
          
-         pieceIcons[0] = in.readLine();
-         pieceIcons[1] = in.readLine();
-         pieceIcons[2] = in.readLine();
-         pieceIcons[3] = in.readLine();
-         pieceIcons[4] = in.readLine();
-         pieceIcons[5] = in.readLine();
-         pieceIcons[6] = in.readLine();
-         pieceIcons[7] = in.readLine();
-         pieceIcons[8] = in.readLine();
-         pieceIcons[9] = in.readLine();
-         pieceIcons[10] = in.readLine();
-         pieceIcons[11] = in.readLine();
-         
+         for (int i = 0; i < 12; i++)
+         {
+            pieceIcons[i] = in.readLine();  
+         }
          blank = in.readLine();
          
          in.close();
